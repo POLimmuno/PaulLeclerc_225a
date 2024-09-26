@@ -1,4 +1,4 @@
-# PaulLeclerc_225a
+# Paul Leclerc
  
  This is my repo for BMS 225 - Data Science. My work is organized as follows:
 
